@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Byte-identical copies of the original 1.0 layouts; debug-only references for UI comparison tests, not app code. -->
+    <issue id="all">
+        <ignore path="src/debug/res/layout/legacy_activity_main.xml" />
+        <ignore path="src/debug/res/layout/legacy_item_pattern_card.xml" />
+    </issue>
+</lint>

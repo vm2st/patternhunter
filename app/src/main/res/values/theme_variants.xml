@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- System, Light and Dark: the original colours and drawables, selected by night mode. -->
+    <style name="Theme.PatternHunter.Standard">
+        <item name="phWindowBackground">@color/window_background</item>
+        <item name="phTextPrimary">@color/text_primary</item>
+        <item name="phTextSecondary">@color/text_secondary</item>
+        <item name="phTextTertiary">@color/text_tertiary</item>
+        <item name="phHeroTextSub">@color/hero_text_sub</item>
+        <item name="phBrandText">@color/brand_primary</item>
+        <item name="phChipText">@color/chip_sample_text</item>
+        <item name="phHeroBackground">@drawable/hero_bg</item>
+        <item name="phInputBackground">@drawable/input_bg</item>
+        <item name="phButtonBackground">@drawable/btn_secondary_bg</item>
+        <item name="phChipBackground">@drawable/chip_bg</item>
+        <item name="phCardBackground">@drawable/card_bg</item>
+        <item name="phCardNestedBackground">@drawable/card_nested_bg</item>
+    </style>
+
+    <!-- Burgundy: primary colour #892929. Applied together with night mode, so system widgets use light text. -->
+    <style name="Theme.PatternHunter.Burgundy">
+        <item name="colorPrimary">@color/burgundy_primary</item>
+        <item name="colorPrimaryDark">@color/burgundy_primary_dark</item>
+        <item name="colorAccent">@color/burgundy_accent</item>
+        <item name="android:windowBackground">@color/burgundy_window_background</item>
+        <item name="android:textColorPrimary">@color/burgundy_text_primary</item>
+        <item name="android:textColorSecondary">@color/burgundy_text_secondary</item>
+        <item name="android:statusBarColor">@color/burgundy_window_background</item>
+        <item name="android:navigationBarColor">@color/burgundy_window_background</item>
+        <item name="phWindowBackground">@color/burgundy_window_background</item>
+        <item name="phTextPrimary">@color/burgundy_text_primary</item>
+        <item name="phTextSecondary">@color/burgundy_text_secondary</item>
+        <item name="phTextTertiary">@color/burgundy_text_tertiary</item>
+        <item name="phHeroTextSub">@color/burgundy_hero_text_sub</item>
+        <item name="phBrandText">@color/burgundy_brand_text</item>
+        <item name="phChipText">@color/burgundy_chip_text</item>
+        <item name="phHeroBackground">@drawable/hero_bg_burgundy</item>
+        <item name="phInputBackground">@drawable/input_bg_burgundy</item>
+        <item name="phButtonBackground">@drawable/btn_secondary_bg_burgundy</item>
+        <item name="phChipBackground">@drawable/chip_bg_burgundy</item>
+        <item name="phCardBackground">@drawable/card_bg_burgundy</item>
+        <item name="phCardNestedBackground">@drawable/card_nested_bg_burgundy</item>
+    </style>
+</resources>

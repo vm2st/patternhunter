@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analysis_pending">Анализ…</string>
+    <string name="analysis_failed">Не удалось выполнить анализ. Измените строку и повторите.</string>
+    <string name="input_too_long">Строка слишком длинная; вставлена только допустимая часть.</string>
+</resources>

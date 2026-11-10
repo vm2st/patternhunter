@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen colours and backgrounds that differ between the standard and burgundy themes. -->
+    <attr name="phWindowBackground" format="color" />
+    <attr name="phTextPrimary" format="color" />
+    <attr name="phTextSecondary" format="color" />
+    <attr name="phTextTertiary" format="color" />
+    <attr name="phHeroTextSub" format="color" />
+    <attr name="phBrandText" format="color" />
+    <attr name="phChipText" format="color" />
+    <attr name="phHeroBackground" format="reference" />
+    <attr name="phInputBackground" format="reference" />
+    <attr name="phButtonBackground" format="reference" />
+    <attr name="phChipBackground" format="reference" />
+    <attr name="phCardBackground" format="reference" />
+    <attr name="phCardNestedBackground" format="reference" />
+</resources>

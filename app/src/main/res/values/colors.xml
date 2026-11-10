@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Accent: #892929 -->
+    <color name="brand_primary">#892929</color>
+    <color name="brand_primary_variant">#6B1F1F</color>
+    <color name="brand_secondary">#A83838</color>
+    <color name="brand_accent">#C54E4E</color>
+    
+    <color name="window_background">#FAF5F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_card_nested">#F7EFEF</color>
+    <color name="card_stroke">#E8D4D4</color>
+    
+    <color name="text_primary">#1C0D0D</color>
+    <color name="text_secondary">#5C3B3B</color>
+    <color name="text_tertiary">#947373</color>
+    <color name="hero_text_sub">#FDECEC</color>
+    
+    <!-- Badges (Harmonized with #892929) -->
+    <color name="badge_boundary_bg">#FCE8E8</color>
+    <color name="badge_boundary_text">#892929</color>
+    <color name="badge_run_bg">#FEF3C7</color>
+    <color name="badge_run_text">#92400E</color>
+    <color name="badge_sandwich_bg">#ECFDF5</color>
+    <color name="badge_sandwich_text">#065F46</color>
+    <color name="badge_progression_bg">#F3E8FF</color>
+    <color name="badge_progression_text">#6B21A8</color>
+    <color name="badge_palindrome_bg">#FDF2F8</color>
+    <color name="badge_palindrome_text">#9D174D</color>
+    <color name="badge_frequency_bg">#FEE2E2</color>
+    <color name="badge_frequency_text">#991B1B</color>
+    <color name="badge_alternation_bg">#FFF7ED</color>
+    <color name="badge_alternation_text">#9A3412</color>
+    
+    <color name="chip_sample_bg">#F5EAEA</color>
+    <color name="chip_sample_stroke">#E2CDCD</color>
+    <color name="chip_sample_text">#4A2626</color>
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_stroke">#DDBEBE</color>
+</resources>

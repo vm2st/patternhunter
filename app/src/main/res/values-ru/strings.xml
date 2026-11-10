@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Детектив паттернов</string>
+    <string name="tagline">Яростный математический поиск скрытых последовательностей и закономерностей</string>
+    
+    <!-- Themes -->
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    
+    <!-- Input & Actions -->
+    <string name="input_hint">Введите любые символы, цифры, эмодзи, слова...</string>
+    <string name="btn_paste">Вставить</string>
+    <string name="btn_random">Случайный пример</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="samples_title">Быстрые примеры:</string>
+    <string name="telegram_link">vm2 studios Telegram</string>
+    <string name="clipboard_empty">Буфер обмена пуст</string>
+    
+    <!-- Sample buttons -->
+    <string name="sample_1">278179499912</string>
+    <string name="sample_2">goofhfigperos</string>
+    <string name="sample_3">123456789</string>
+    <string name="sample_4">abacaba</string>
+    <string name="sample_5">Mississippi</string>
+    <string name="sample_6">a1b2c3d4e5</string>
+    <string name="sample_7">🚀★🚀★🚀</string>
+    <string name="sample_8">🔥🐱🔥🐱🔥</string>
+    
+    <!-- Summary Section -->
+    <string name="summary_title">Математическая сводка</string>
+    <string name="stat_length">Длина: %1$d симв.</string>
+    <string name="stat_unique">Уникальных символов: %1$d</string>
+    <string name="stat_entropy">Энтропия Шеннона: %1$.2f бит</string>
+    <string name="stat_type">Класс символов: %1$s</string>
+    
+    <!-- Results Header -->
+    <string name="results_count">Обнаружено %1$d закономерностей и структур:</string>
+    <string name="no_patterns_found">Нет нетривиальных паттернов. Попробуйте более длинную или разнообразную строку!</string>
+    <string name="empty_prompt">Введите комбинацию символов выше, чтобы приложение яростно выявило каждую симметрию, сэндвич, повтор, прогрессию и математическую структуру.</string>
+    
+    <!-- Categories -->
+    <string name="cat_boundaries">Границы и симметрия</string>
+    <string name="cat_runs">Повторы и скопления</string>
+    <string name="cat_sandwiches">Сэндвич-структуры</string>
+    <string name="cat_progressions">Прогрессии и порядок</string>
+    <string name="cat_palindromes">Палиндромы и отражения</string>
+    <string name="cat_periodicity">Периодичность и расстояния</string>
+    <string name="cat_alternation">Чередования и ритмы</string>
+    <string name="cat_frequency">Частоты и баланс</string>
+    <string name="cat_structure">Структурный порядок</string>
+
+    <!-- Domain types -->
+    <string name="type_digits">Только десятичные цифры (0–9)</string>
+    <string name="type_binary">Бинарный код (0, 1)</string>
+    <string name="type_hex">Шестнадцатеричные символы (0–9, a–f)</string>
+    <string name="type_latin">Латинские буквы (a–z)</string>
+    <string name="type_cyrillic">Кириллические буквы (а–я)</string>
+    <string name="type_alphanumeric">Буквы и цифры</string>
+    <string name="type_mixed">Смешанные символы / Юникод</string>
+</resources>

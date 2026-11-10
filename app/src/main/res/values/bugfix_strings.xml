@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="analysis_pending">Analyzing…</string>
+    <string name="analysis_failed">Analysis failed. Edit the string and try again.</string>
+    <string name="input_too_long">The string is too long; only its accepted part was pasted.</string>
+</resources>
